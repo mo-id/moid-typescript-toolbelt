@@ -2,7 +2,7 @@
   "name": "@mo-id/typescript-toolbelt",
   "repository": "git://github.com/mo-id/moid-typescript-toolbelt.git",
   "author": "moid",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
