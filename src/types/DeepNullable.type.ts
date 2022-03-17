@@ -1,6 +1,8 @@
 import { Nullable } from "./Nullable.type";
 import { PlainObject } from "./PlainObject.type";
 
+const pino = "";
+
 export type DeepNullable<Type> = Type extends PlainObject
   ? Type extends Array<any>
     ? Nullable<Type>
